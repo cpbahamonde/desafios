@@ -1,0 +1,66 @@
+*{
+    margin:auto;
+    padding:10px;
+    border:0;
+    font-weight: 600;
+}
+
+header{
+    padding-top: 5vh;
+    display: flex
+}
+
+h1{
+    display: inline
+}
+
+.logo{
+    
+    margin-top: -60px;
+    
+   
+
+}
+
+.identificacion{
+    margin-left:10px
+}
+
+.nombre{
+    display: block;
+}
+
+.carrera{
+    margin-top: -10px;
+    display:block;
+    margin-left:0px
+}
+
+h5{
+    display:inline
+}
+
+#carrera{
+    margin-left:12px
+}
+
+@media (max-width: 760px){
+    header{
+        width:auto
+    }
+
+    h1{
+        font-size: 1.3rem;
+    }
+
+    .identificacion{
+        font-size: 1.2rem
+    }
+    #logo_foto{
+        width: 100px;
+        margin-right: -6vw;
+        padding-top:20px
+
+    }
+
+}

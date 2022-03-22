@@ -1,0 +1,10 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT del:
+- Desafío guiado - Ciclos
+	link principal: https://github.com/cpbahamonde/desafios
+	carpeta: ciclos
+
+saludos,
+
+Claudio Bahamonde

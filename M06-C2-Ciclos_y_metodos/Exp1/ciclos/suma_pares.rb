@@ -2,7 +2,8 @@
 # Tip: El cero no es par, no afecta en la suma pero tenemos que tener cuidado con los bordes del ciclo.
 # Uso:
 # ruby suma_pares.rb 20
-# 110
+# *420* <= la suma de los pares hasta 20 NO da 420
+# 110   <= la suma de los pares hasta 20 da 110
 
 num_ingr = ARGV[0].to_i
 i=1

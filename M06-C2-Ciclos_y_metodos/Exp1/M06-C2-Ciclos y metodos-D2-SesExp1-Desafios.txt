@@ -1,0 +1,15 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+Curso:
+"Mod06-Intro programación Ruby\Cap2-Ciclos y metodos\Dia2\SesExper1"
+
+link carpeta: 
+https://github.com/cpbahamonde/desafios/tree/master/M06-C2-Ciclos_y_metodos/Exp1/ciclos
+1- Desafío_guiado_-_Ciclos
+
+
+saludos,
+Claudio Bahamonde

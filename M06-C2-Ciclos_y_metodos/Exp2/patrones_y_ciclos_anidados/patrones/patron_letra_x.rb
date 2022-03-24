@@ -12,7 +12,7 @@
 
 def patron(num_ingr)                                            # Inicio Metodo
 
-        print "#{ "*" + " "*(num_ingr-2) + "*"}"                    # linea Inicial
+        print "*" + " "*(num_ingr-2) + "*"                    # linea Inicial
         puts
 
         a=1                                                         # Inicio parte superior
@@ -23,7 +23,7 @@ def patron(num_ingr)                                            # Inicio Metodo
                 b-=2
                 end                                                 # Fin parte superior
                 
-        puts "#{ " "*(num_ingr/2)+ "*"+" "*(num_ingr/2)}"           # Linea Media      
+        puts " "*(num_ingr/2)+ "*"+" "*(num_ingr/2)           # Linea Media      
 
         a=(num_ingr/2-1)                                            # Inicio parte Inferior
         b=1
@@ -34,7 +34,7 @@ def patron(num_ingr)                                            # Inicio Metodo
                 b+=2
                 end                                                 # Fin parte Inferior
 
-        puts "#{"*" + " "*(num_ingr-2) + "*"}"                      # Linea Final     
+        puts "*" + " "*(num_ingr-2) + "*"                      # Linea Final     
 end                                                             # Fin Metodo
 
 num_ingr=ARGV[0].to_i

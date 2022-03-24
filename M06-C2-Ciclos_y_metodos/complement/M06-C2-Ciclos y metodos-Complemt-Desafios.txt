@@ -7,9 +7,15 @@ Curso:
 "Mod06-Intro programación Ruby\Cap2-Ciclos y metodos\Dia2\MaterialComplemetario"
 
 link carpeta: 
-https://github.com/cpbahamonde/desafios/tree/master/M06-C2-Ciclos_y_metodos/Exp1/ciclos
-1- Desafío_guiado_-_Ciclos
+https://github.com/cpbahamonde/desafios/tree/master/M06-C2-Ciclos_y_metodos/complement
 
+- 03_o_Desafío_Opcional_-_Suma
+- 04_o_Desafío_Opcional_-_Pares
+- 05_o_Desafío_Opcional_-_Generador_de_listas_en_HTML
+- 06_o_Desafío_Opcional_-_Dibujando_asteriscos_y_puntos
+- 07_o_Desafío_Opcional_-_Dos_por_dos
+- 08_o_Desafío_Opcional_-_Patrón
+- 09_o_Desafío_Opcional_-_Validar_edad
 
 saludos,
 Claudio Bahamonde

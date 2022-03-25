@@ -1,3 +1,7 @@
+notas_1 =[6.0, 5.5, 7.0, 3.0, 5.0, 6.5]
+notas_2 =[5.0, 4.5, 6.0, 2.0, 4.0, 5.5]
+
+
 def promedio(array)
     n=array.count
     suma_notas=0
@@ -12,16 +16,20 @@ def promedio(array)
 end
 
 def compara_arrays(array1,array2)
-
-
-
-
-
+    if array1 > array2
+        return "promedio de notas1"
+    else
+        return "promedio de notas2"
+    end
 end
+
 system 'clear'
-notas_1 =[6.0, 5.5, 7.0, 3.0, 5.0, 6.5]
-notas_2 =[5.0, 4.5, 6.0, 2.0, 4.0, 5.5]
 promedio_1=promedio(notas_1)
 promedio_2=promedio(notas_2)
+
 puts "El promedio de notas1 es:  #{promedio_1}"
 puts "El promedio de notas2 es:  #{promedio_2}"
+
+cprom=compara_arrays(promedio_1,promedio_2)
+puts "El mayor es el:  #{cprom}"
+

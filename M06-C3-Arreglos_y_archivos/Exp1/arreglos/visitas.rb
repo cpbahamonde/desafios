@@ -10,7 +10,8 @@ def promedio(array)
     promedio=suma_notas/n
     # return # times devuelve cuenta
 end
+
 system 'clear'
 visitas =[1000, 800, 250, 300, 500, 2500]
-promedio=promedio(visitas)
+promedio=promedio(visitas) 
 puts "El promedio de los elementos del arreglo es:  #{promedio}"

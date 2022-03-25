@@ -1,0 +1,16 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+Curso:
+"Mod06-Intro programación Ruby\Cap4\Arreglos y archivos\Mat Complementario"
+
+link carpeta: 
+https://github.com/cpbahamonde/desafios/tree/master/M06-C2-Ciclos_y_metodos/Exp2
+
+- 05_o_Desafío_Opcional_-_Adictos_a_redes_v2_
+
+
+saludos,
+Claudio Bahamonde

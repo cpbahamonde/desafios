@@ -7,7 +7,7 @@ Curso:
 "Mod06-Intro programación Ruby\Cap4\Hashes y APIs\Dia2\SesExper2"
 
 link carpeta: 
-https://github.com/cpbahamonde/desafios/tree/master/M06-C2-Ciclos_y_metodos/Exp2
+https://github.com/cpbahamonde/desafios/tree/master/M06-C4-Hashes_y_APIs/Exp2/prueba
 
 - 02_p_Prueba_-_Introducción_a_la_programación_con_Ruby
 

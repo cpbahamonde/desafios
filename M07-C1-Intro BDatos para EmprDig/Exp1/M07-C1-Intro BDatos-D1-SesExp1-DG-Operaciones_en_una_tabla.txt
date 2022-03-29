@@ -1,0 +1,16 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+Curso:
+"M07-C1-Intro BDatos para EmprDig\SesExper1"
+
+link carpeta: 
+https://github.com/cpbahamonde/desafios/tree/master/M06-C4-Hashes_y_APIs/Exp2/prueba
+
+- 02_o_Desafío_guiado_-_Operaciones_en_una_tabla
+
+
+saludos,
+Claudio Bahamonde

@@ -1,10 +1,16 @@
-# Estimados,
+Estimados,
 
-adjunto envio informacion, para  revision en GIT del:
-- Desafío {} - {}
-	link principal: https://github.com/cpbahamonde/desafios
-	carpeta: {}
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+Curso:
+"[]"
+
+link carpeta: 
+{}
+
+- ()
+
 
 saludos,
-
 Claudio Bahamonde

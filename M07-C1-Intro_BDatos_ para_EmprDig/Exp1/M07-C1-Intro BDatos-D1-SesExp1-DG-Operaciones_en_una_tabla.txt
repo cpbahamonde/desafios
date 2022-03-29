@@ -7,7 +7,7 @@ Curso:
 "M07-C1-Intro BDatos para EmprDig\SesExper1"
 
 link carpeta: 
-https://github.com/cpbahamonde/desafios/tree/master/M06-C4-Hashes_y_APIs/Exp2/prueba
+https://github.com/cpbahamonde/desafios/tree/master/M07-C1-Intro_BDatos_para_EmprDig
 
 - 02_o_Desafío_guiado_-_Operaciones_en_una_tabla
 

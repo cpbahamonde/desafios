@@ -1,6 +1,12 @@
 -- Desafío Evaluado 'Top 100'
 
 -- 1. Crear una base de datos llamada películas. (1 Punto)
+
+CREATE DATABASE Peliculas
+
+-- *** Conectar BDatos 'Posts' ***
+\c Peliculas
+
 CREATE TABLE IF NOT EXISTS Peliculas (id_pelis serial, pelicula VARCHAR(100), agno_estreno integer, director VARCHAR(50), PRIMARY KEY (id_pelis));
 CREATE TABLE IF NOT EXISTS Reparto (id_pelis integer NOT NULL, actor VARCHAR(50), FOREIGN KEY (id_pelis) REFERENCES Peliculas(id_pelis));
 

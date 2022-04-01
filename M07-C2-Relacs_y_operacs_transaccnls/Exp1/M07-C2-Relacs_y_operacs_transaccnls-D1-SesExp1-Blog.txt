@@ -8,7 +8,7 @@ M07-C2-Relacs_y_operacs_transaccnls-D1-SesExp1
 - 02_o_Desafío_Guiado_-_Creando_y_analizando_nuestro_propio_blog
 
 link carpeta: 
-https://github.com/cpbahamonde/desafios/tree/master/M07-C2-Relacs_y_operacs_transaccnls\D1-Exp1
+https://github.com/cpbahamonde/desafios/tree/master/M07-C2-Relacs_y_operacs_transaccnls/Exp1
 
 
 

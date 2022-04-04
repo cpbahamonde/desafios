@@ -110,3 +110,4 @@ ROLLBACK;
 \echo :AUTOCOMMIT  -- ON (default)
 \set AUTOCOMMIT on
 
+   

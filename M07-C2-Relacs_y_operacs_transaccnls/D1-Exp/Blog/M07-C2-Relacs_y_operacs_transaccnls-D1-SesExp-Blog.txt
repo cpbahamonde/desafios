@@ -3,13 +3,15 @@ Estimados,
 adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
 correspondiente(s) a:
 
-Curso:
-M07-C2-Relacs_y_operacs_transaccnls-D1-SesExp1
+CURSO:
+M07-C2-Relacs_y_operacs_transaccnls-D1-Exp
 - 02_o_Desafío_Guiado_-_Creando_y_analizando_nuestro_propio_blog
 
-link carpeta: 
-https://github.com/cpbahamonde/desafios/tree/master/M07-C2-Relacs_y_operacs_transaccnls/Exp1/Blog
+GITHUB LINK CARPETA: 
+https://github.com/cpbahamonde/desafios/tree/master/M07-C2-Relacs_y_operacs_transaccnls/D1-Exp/Blog
 
+ARCHIVO SQL:
+blog.sql
 
 saludos,
 Claudio Bahamonde

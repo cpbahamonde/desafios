@@ -1,7 +1,7 @@
 -- Desafío Evaluado
 -- M07-Intro BDatos para EmprDig\2-Relacs y operacs transaccionls\D2\Experimnt
 -- 02_d_Desafío_Evaluado_-_Entendiendo_cómo_se_comportan_nuestros_clientes
--- Database: BillJobs_ComportamClientes
+-- Database: ComportamClientes
 
 
 -- Para cumplir los siguientes requerimientos, debes recordar tener desactivado el autocommit en tu base de datos.
@@ -11,9 +11,9 @@
 
 -- 1. Cargar el respaldo de la base de datos unidad2.sql. (2 Puntos)
 DROP DATABASE IF EXISTS BillJobs_ComportamClientes;
-CREATE DATABASE BillJobs_ComportamClientes;
+CREATE DATABASE ComportamClientes;
 \q
-psql -U postgres BillJobs_ComportamClientes < "C:\Users\cpbah\OneDrive\Escritorio\unidad2.sql";
+psql -U postgres ComportamClientes < "C:\Users\cpbah\OneDrive\Escritorio\unidad2.sql";
 
 
 -- 2. El cliente usuario01 ha realizado la siguiente compra:

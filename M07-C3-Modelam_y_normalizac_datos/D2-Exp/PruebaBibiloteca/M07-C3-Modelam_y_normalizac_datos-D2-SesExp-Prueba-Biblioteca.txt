@@ -11,7 +11,7 @@ GITHUB LINK CARPETA:
 https://github.com/cpbahamonde/desafios/tree/master/M07-C3-Modelam_y_normalizac_datos/D2-Exp/PruebaBiblioteca
 
 ARCHIVO SQL:
-biblioteca.sql
+biblioteca-Respuestas-Prueba.sql
 
 
 saludos,

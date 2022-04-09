@@ -4,14 +4,14 @@ adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
 correspondiente(s) a:
 
 CURSO:
-M07-C2-Relacs_y_operacs_transaccnls-D2-SesExp
+M07-C2-Relacs_y_operacs_transaccnls-D2-SesExp1
 - 02_d_Desafío_Evaluado_-_Entendiendo_cómo_se_comportan_nuestros_clientes
 
 GITHUB LINK CARPETA: 
-https://github.com/cpbahamonde/desafios/tree/master/M07-C2-Relacs_y_operacs_transaccnls/D2-Exp/ComportamClientes
+https://github.com/cpbahamonde/desafios/tree/master/M07-C2-Relacs_y_operacs_transaccnls/Exp2/ComportamClientes
 
-ARCHIVO SQL:
-comportam_clientes.sql
+ARCHIVO:
+BillJobs_ComportamClientes.sql
 
 
 saludos,

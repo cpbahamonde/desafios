@@ -18,11 +18,7 @@ def read_file(filename)
 end
 
 # "Current amount: #{amount.round(2)}"
-
 #  puts "Current amount: #{format("%.2f", amount)}"
-
-
-
 # b.map{ |arr| arr.map{ |v| v.to_f } }
 
 def calc_sem(array_data)
@@ -52,9 +48,6 @@ system 'pause'
 end
 
 # input.each_slice(2).sum { |a, b| a + 2* (b || 0) }
-
-
-
 
 
 datos_arch=read_file('ventas_base.db')

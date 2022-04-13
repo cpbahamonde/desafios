@@ -1,0 +1,18 @@
+
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+CURSO:
+M08-C2-Profundiz_en_objts-D2-E1-DG-Appointment
+- 02_o_Desafío_guiado_-_Herencia_y_UML.pdf
+
+GITHUB LINK CARPETA: 
+https://github.com/cpbahamonde/desafios/tree/master/M08-C2-Profundiz_en_objts/D2-E1
+
+ARCHIVO:
+1. appointment.rb
+
+saludos,
+Claudio Bahamonde

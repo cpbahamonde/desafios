@@ -1,0 +1,19 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+CURSO:
+M08-C1-Intro_objts-D2-E2-DE-CtasBancarias_y_Barajas
+- 02_d_Desafío_evaluado_-_Cuentas_bancarias_y_baraja_de_cartas.pdf
+
+GITHUB LINK CARPETA: 
+https://github.com/cpbahamonde/desafios/tree/master/M08-C1-Intro_objetos/D2-E2
+
+ARCHIVO:
+1.a barajas.rb
+1.b carta.rb
+2. ctabancaria.rb
+
+saludos,
+Claudio Bahamonde

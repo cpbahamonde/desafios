@@ -14,7 +14,8 @@ def request(data_nasa)
 end
 
 data_nasa = request("https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=10&api_key=LljzvezyiC18wX10gBdgdur20FFGtegZbmAhHcJV")
-
+print data_nasa 
+system 'pause'
 def build_web_page(data)
 
     hash_new=data['photos']

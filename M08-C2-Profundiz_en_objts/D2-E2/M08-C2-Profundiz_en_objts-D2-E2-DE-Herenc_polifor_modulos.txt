@@ -1,0 +1,19 @@
+
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+CURSO:
+M08-C2-Profundiz_en_objts-D2-E2-DE-Herencia__polimorfismo_y_módulos
+- 02_d_Desafío_evaluado_-_Herencia__polimorfismo_y_módulos.pdf
+
+GITHUB LINK CARPETA: 
+https://github.com/cpbahamonde/desafios/tree/master/M08-C2-Profundiz_en_objts/D2-E2
+
+ARCHIVO:
+1. anim_habilidades.rb
+2. person_student_teacher_parent.rb
+
+saludos,
+Claudio Bahamonde

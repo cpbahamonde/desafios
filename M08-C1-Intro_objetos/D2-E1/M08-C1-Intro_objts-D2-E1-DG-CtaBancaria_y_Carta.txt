@@ -1,0 +1,18 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+CURSO:
+M08-C1-Intro_objts-D2-E1-DG-CtaBancaria_y_Carta
+- 03_o_Desafío_guiado_-_Cuenta_bancaria.pdf
+
+GITHUB LINK CARPETA: 
+https://github.com/cpbahamonde/desafios/tree/master/M08-C1-Intro_objetos/D2-E1
+
+ARCHIVO:
+1. carta.rb
+2. cuenta_bancaria.rb
+
+saludos,
+Claudio Bahamonde

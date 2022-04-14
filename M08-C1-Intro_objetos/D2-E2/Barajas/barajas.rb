@@ -74,9 +74,10 @@ puts
 puts
 system 'pause'  
 
-mano=repartir_mano(naipes_barajados,5)
+num_cartas=5
+mano=repartir_mano(naipes_barajados,num_cartas)
 system 'clear' 
-puts "Mano de 5 cartas"
+puts "Mano de #{num_cartas} cartas"
 puts "================"   
 mano.map do |carta|
     print carta.numero

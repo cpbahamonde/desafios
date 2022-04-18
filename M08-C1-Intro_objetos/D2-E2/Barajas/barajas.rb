@@ -25,8 +25,9 @@ def barajar(naipes)
 end
 
 # ●Crear el método sacar que permita retirar la primera carta de la baraja Tip: Utilizar .pop.(1 Punto)
+#convencion del curso: usar 'shift'
 def sacar(naipes)
-    naipe_1 = naipes.pop
+    naipe_1 = naipes.shift
     return naipe_1.pinta
 end
 

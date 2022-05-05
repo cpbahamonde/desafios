@@ -1,0 +1,283 @@
+html { 
+	background-color: rgb(207, 20, 20); 
+	scroll-behavior: auto !important; 
+} 
+/* 
+body * { display: none; margin: 0; border: 0; padding: 0;}
+*/
+body {
+    min-height: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    font-family: 'Cabin', sans-serif,'Lobster Two';
+}
+
+/*---Navbar---*/
+
+.navbar{
+    background-color: #373A3C;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+.navbar-brand{
+	font-size: 37pt;
+	font-weight: ;
+}
+
+.navbar-menutxt{
+	font-size: 16pt !important ;
+	font-weight: ;
+}
+
+/*Hero Section*/
+
+.fotoprinc{
+    padding: 5;
+    /* 
+	background-image: url("../img/principal.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100vw;
+	position: relative;
+*/
+}
+
+.textprinc{
+	border-bottom: 200px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	margin-left: em;
+}
+
+.botn{
+    border: 1px;
+    color: #ddd;
+}
+
+.botn-txt{
+	font-size: 10pt !important ;
+}
+
+/*--- Carrusel ---*/
+
+#carouselExampleIndicators{
+	width:50%;
+	margin-left:20%;
+}
+
+.carrusel-g{
+	margin left: 0.8px;
+}
+
+.carrusel-1i{
+	display:flex;
+	margin: 1%;
+}
+
+.carrusel-2i{
+	display:flex;
+	margin: 1%;
+}
+
+/*
+.carousel__anterior,
+.carousel__siguiente {
+	position: absolute;
+	display: block;
+	width: 30px;
+	height: 30px;
+	border: none;
+	top: calc(50% - 35px);
+	cursor: pointer;
+	line-height: 30px;
+	text-align: center;
+	background: none;
+	color: #fff;
+	opacity: 20%;
+}
+
+.carousel__anterior:hover,
+.carousel__siguiente:hover {
+	opacity: 100%;
+}
+
+.carousel__anterior {
+	left: -30px;
+}
+
+.carousel__siguiente {
+	right: -30px;
+}
+*/
+.d-block{
+	width:12vw;
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+	padding-left: 0.5vw;
+	padding-right:0.5vw;
+	
+}
+
+
+/*--- Recetas ---*/
+
+#ing-dbl-clck{
+	/*
+	margin-left: 10vw;
+*/
+}
+
+
+.Relacionadas{
+    text-align:center;
+    padding-top: 2vh;
+}
+
+.otras{
+    padding-bottom: 2vh;
+}
+
+.card{
+    margin:auto;
+    margin-top: 1vh;
+    margin-bottom:1vh;
+}
+
+@media screen and (max-width: 800px) {
+	body {
+		padding: 40px 0;
+	}
+
+	.Hero-Section  {
+		flex-direction: column;
+	}
+
+	.Hero-Section  > * {
+		width: 100%;
+	}
+}
+
+/*--- Suscripcion ---*/
+
+.newsletter{
+    background-color:#DC3545;
+    color:white;
+    padding-top:5vh;
+    padding-left:5vw;
+    padding-right:5vw;
+    text-align:center;
+    padding-bottom:5vh
+    
+    
+}
+
+.news-txt{
+    text-align:center;
+    margin-bottom:5vh;
+	font-size:1.5em;
+    display:inline;
+    
+   
+}
+
+.news-parraf{
+    display:inline;
+}
+
+.news-bttn{
+    text-decoration:none;
+    color:white;
+    border-style:solid;
+    border-color:#DDDDDD;
+    border-width: 1px;
+    padding: 1.5vh 15vw;
+    
+}
+/*--- Ricomida ---*/
+
+#Ricomida{
+	font-family: 'Lobster, cursive';
+	color:white"
+
+}
+
+.logo-footer{
+	font-family: 'Lobster, cursiva';
+	color:#fff;
+	font-size: 3em;
+	background-color: #373A3C;
+	height: 100%;
+    width: 100%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+
+
+/*--- CAROUSEL glitter --- 
+.carousel__contenedor {
+	position: relative;
+    margin: 2em;
+    background-color: rgba(255, 0, 0, 0.938);
+}
+
+.carousel__anterior,
+.carousel__siguiente {
+	position: absolute;
+	display: block;
+	width: 30px;
+	height: 30px;
+	border: none;
+	top: calc(50% - 35px);
+	cursor: pointer;
+	line-height: 30px;
+	text-align: center;
+	background: none;
+	color: #fff;
+	opacity: 20%;
+}
+
+.carousel__anterior:hover,
+.carousel__siguiente:hover {
+	opacity: 100%;
+}
+
+.carousel__anterior {
+	left: -30px;
+}
+
+.carousel__siguiente {
+	right: -30px;
+}
+
+.carousel__lista {
+	overflow: hidden;
+}
+
+.carousel__elemento {
+	text-align: center;
+    margin: 1em;
+}
+
+.carousel__indicadores .glider-dot {
+	display: block;
+	background: #fff;
+	opacity: .2;
+	width: 30px;
+	height: 4px;
+    border-radius: 0;
+}
+
+.carousel__indicadores .glider-dot:hover {
+	opacity: .5;
+}
+
+.carousel__indicadores .glider-dot.active {
+	opacity: 1;
+}
+*/

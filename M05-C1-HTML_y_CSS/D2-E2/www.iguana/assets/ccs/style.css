@@ -1,0 +1,145 @@
+
+body * { margin: 0; border: 0; padding: 0; background-color:Black;}
+
+body { 
+
+font: normal normal medium 50px/59px Raleway;
+
+    }
+
+
+h1 {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+    background: #000000 0% 0% no-repeat padding-box;
+    color: white;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    opacity: 1;
+/*  background-color: #cccccc; 
+    display: inline-block;
+    opacity: 1;
+    background: transparent url('./assets/img/bg-header.jpg') 0% 0% no-repeat padding-box;
+*/
+}
+
+h2 {
+
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    color: white;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    opacity: 1;
+/*  background-color: #cccccc; 
+    display: inline-block;
+    opacity: 1;
+        top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+    background: transparent url('./assets/img/bg-header.jpg') 0% 0% no-repeat padding-box;
+*/
+}
+
+h3 {
+  color: white;
+  height: 100%;
+  width: 100%;
+  text-align: justify;
+  display: inline-block;
+  place-items: center;
+  opacity: 1;
+  background: #1E1A13 0% 0% no-repeat padding-box;
+}
+
+img {
+    /* To center an image, set left and right margin to auto, and make it into a block element.*/
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.two-column-div { 
+    column-count: 2; 
+    column-gap: 40px;
+    overflow:hidden;
+}
+
+.three-column-div { 
+    column-count: 3; 
+    column-gap: 0px;
+    overflow:hidden;
+}
+
+
+p {
+  color: white;
+  height: 100%;
+  width: 100%;
+  text-align: justify;
+    display: flex;
+  place-items: center;
+  opacity: 1;
+}
+
+.icon {
+ 
+  height: 100%;
+  width: 100%;
+  text-align: justify;
+    display: inline-block;
+  place-items: center;
+  opacity: 1;
+  background: #1E1A13 0% 0% no-repeat padding-box;
+}
+
+#columnas{
+   column-count:4;
+   column-gap:20px;
+   column-rule:4px double black;
+   list-style: none;
+   background: #1E1A13 0% 0% no-repeat padding-box;
+}
+
+.footer {
+  top: 1874px;
+  left: 299px;
+  width: 682px;
+  height: 24px;
+      text-align: center;
+    display: grid;
+    place-items: center;
+  font: normal normal 300 20px/24px Raleway;
+  letter-spacing: 0px;
+  background: #1E1A13 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+
+
+.content {
+  width: 600px;
+  height: 400px;
+  line-height: 400px;
+  margin: 0px auto;
+  text-align: center;
+  /*  background-color: #cccccc; */
+}
+
+.bg-header-1 {
+top: 73px;
+left: 0px;
+width: 1280px;
+height: 727px;
+
+place-items: center;
+object-fit: contain;
+display: grid;
+background: transparent url('./assets/img/iguana-1.jpg') 0% 0% no-repeat padding-box;

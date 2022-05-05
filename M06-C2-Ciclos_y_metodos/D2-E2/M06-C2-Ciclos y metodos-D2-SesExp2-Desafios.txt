@@ -9,11 +9,10 @@ Curso:
 link carpeta: 
 https://github.com/cpbahamonde/desafios/tree/master/M06-C2-Ciclos_y_metodos/Exp2
 
-- 02_o_Desafío_guiado_-_Patrones_y_ciclos
-- 04_d_Desafío_evaluado_-_Patrones_y_ciclos_anidados
-- 06_o_Desafío_Opcional_-_Piedra__papel_o_tijera
-- 07_o_Desafío_Opcional_-_Figuras_Strings
-
+1- Desafío_guiado_-_Patrones_y_ciclos
+2- Desafío_evaluado_-_Patrones_y_ciclos_anidados
+3- Desafío_Opcional_-_Piedra__papel_o_tijera2
+4- Desafío_Opcional_-_Figuras_Strings
 
 saludos,
 Claudio Bahamonde

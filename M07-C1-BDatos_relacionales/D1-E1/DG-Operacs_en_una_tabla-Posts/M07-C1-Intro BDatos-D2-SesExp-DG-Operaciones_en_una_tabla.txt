@@ -1,0 +1,18 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+CURSO:
+"M07-C1-Intro BDatos para EmprDig\D1-SesExper"
+- 02_o_Desafío_guiado_-_Operaciones_en_una_tabla
+
+GITHUB LINK CARPETA: 
+https://github.com/cpbahamonde/desafios/tree/master/M07-C1-Intro_BDatos_para_EmprDig/D1-Exp/Posts
+
+ARCHIVO SQL:
+posts-operaciones_en_una_tabla.sql
+
+
+saludos,
+Claudio Bahamonde

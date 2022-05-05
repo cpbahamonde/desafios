@@ -9,9 +9,10 @@ Curso:
 link carpeta: 
 https://github.com/cpbahamonde/desafios/tree/master/M06-C1-Flujo/Exp2
 
-- 02_o_Desafío_guiado_-_Piedra__papel_o_tijera
-- 03_o_Desafío_guiado_-_El_mayor_de_tres_números
-- 04_d_Desafío_evaluado_-_El_mayor_de_cuatro_números
+1- Desafío_guiado_-_Piedra__papel_o_tijera_1
+2- Desafío_guiado_-_El_mayor_de_tres_números
+3- Desafío_evaluado_-_El_mayor_de_cuatro_números
+
 
 saludos,
 Claudio Bahamonde

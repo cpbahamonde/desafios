@@ -1,0 +1,19 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+CURSO:
+"M07-C1-Intro BDatos para EmprDig\D2-SesExper"
+- 02_d_Desafío_Evaluado_-_Top_100
+
+GITHUB LINK CARPETA:  
+https://github.com/cpbahamonde/desafios/tree/master/M07-C1-Intro_BDatos_para_EmprDig/D2-Exp/Peliculas_Top100
+
+ARCHIVO SQL:
+top_100.sql
+
+
+
+saludos,
+Claudio Bahamonde

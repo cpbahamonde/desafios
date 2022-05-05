@@ -1,0 +1,18 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+CURSO:
+M07-C3-Modelam_y_normalizac_datos-D2-SesExp-PruebaBiblioteca
+- 02_p_Prueba_-_Biblioteca.pdfs
+
+GITHUB LINK CARPETA: 
+https://github.com/cpbahamonde/desafios/tree/master/M07-C3-Modelam_y_normalizac_datos/D2-Exp/PruebaBiblioteca
+
+ARCHIVO SQL:
+biblioteca-Respuestas-Prueba.sql
+
+
+saludos,
+Claudio Bahamonde

@@ -8,8 +8,7 @@ Curso:
 
 link carpeta: 
 https://github.com/cpbahamonde/desafios/tree/master/M06-C2-Ciclos_y_metodos/Exp1/ciclos
-
-- 02_o_Desafío_guiado_-_Ciclos
+1- Desafío_guiado_-_Ciclos
 
 
 saludos,

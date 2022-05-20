@@ -1,0 +1,15 @@
+Estimados,
+
+adjunto envio informacion, para  revision en GIT de(l) (los) desafio(s)
+correspondiente(s) a:
+
+CURSO:
+"M06-C3-Arreglos_y_archivos-D2-SesExp2-"
+- 02_d_Desafío_evaluado_-_Arreglos_y_archivos
+
+GITHUB LINK CARPETA:  
+https://github.com/cpbahamonde/desafios/tree/master/M06-C3-Arreglos_y_archivos/D2-E2
+
+
+saludos,
+Claudio Bahamonde
